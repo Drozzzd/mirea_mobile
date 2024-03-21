@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="activitylifecycle">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\drozd\.android\avd\Pixel_6_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-21T13:11:14.195299300Z" />
+        </State>
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="control_lesson2">
+        <State />
+      </entry>
+      <entry key="dialog">
+        <State />
+      </entry>
+      <entry key="intentfilter">
+        <State />
+      </entry>
+      <entry key="multiactivity">
+        <State />
+      </entry>
+      <entry key="notificationapp">
+        <State />
+      </entry>
+      <entry key="toastapp">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
